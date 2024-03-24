@@ -1,6 +1,6 @@
 **Open Broadcaster Software (OBS)**
 
-![OBS Logo](https://obsproject.com/images/logo-twitter-card.png)
+![OBS Logo](https://logodix.com/logo/1590481.png)
 
 ---
 
